@@ -1,0 +1,57 @@
+[{
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "Aloha Heja He",
+        "album": "Die Hit Giganten",
+        "singer": "Achim Reichel ",
+        "duration": 241,
+        "islike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "Star Sky",
+        "album": "Battlecry (战斗口号)",
+        "singer": "Two Steps From Hell ",
+        "duration": 331,
+        "islike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "I Just Wanna Run",
+        "album": "Take Action! Volume 9",
+        "singer": "The Downtown Fiction",
+        "duration": 202,
+        "islike": false
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
+        "song": "Intro (纯音乐版)",
+        "album": "XX",
+        "singer": "The xx",
+        "duration": 184,
+        "islike": false
+    },
+    {
+        "image": "/source/song_5.jpg",
+        "audio": "/source/song_5.mp3",
+        "song": "El Dorado (Dubstep Remix)",
+        "album": "Burn",
+        "singer": "Two Steps From Hell ",
+        "duration": 186,
+        "islike": false
+    },
+    {
+        "image": "/source/song_6.jpg",
+        "audio": "/source/song_6.mp3",
+        "song": "the dawn",
+        "album": "Beyond Reality (超越现实)",
+        "singer": "dreamtale",
+        "duration": 246,
+        "islike": false
+    }
+
+
+]
